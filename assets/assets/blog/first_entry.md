@@ -1,14 +1,12 @@
-# Here I go, again on my own
+# New Website
 
 > -- pampanet.org, May 25th 2024
 
 It's been a while since I don't post and this is the first post in my own website, so I'm pretty excited to see the outcome of this new experience.
 
-So, without further ado, this is the first post of pampanet.org
-
 ## Our Mission
 
-Since the software industry is in continuous change, **it's not always clear to tell if our culture is really** transforming for the better and the common wealth, or in simpler terms, **evolving**. 
+Given that the software industry is in continuous change, **it's not always clear to tell if our culture is really** transforming for the better and the common wealth, or in simpler terms, **evolving**. 
 
 So this company's focus and mission is to **make software that can help us evolve**, always finding new challenges while focusing on giving the best user experience today.
 
