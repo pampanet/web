@@ -1,6 +1,4 @@
-# New Website
-
-> -- pampanet.org, May 25th 2024
+# Welcome
 
 It's been a while since I don't post and this is the first post in my own website, so I'm pretty excited to see the outcome of this new experience.
 
