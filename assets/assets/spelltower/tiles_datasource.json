@@ -1,0 +1,157 @@
+[
+    {
+        "letter": "a",
+        "freq": 12,
+        "score": 1
+    },
+    {
+        "letter": "b",
+        "freq": 2,
+        "score": 1
+    },
+    {
+        "letter": "c",
+        "freq": 4,
+        "score": 1
+    },
+    {
+        "letter": "ch",
+        "freq": 1,
+        "score": 1
+    },
+    {
+        "letter": "d",
+        "freq": 5,
+        "score": 1
+    },
+    {
+        "letter": "e",
+        "freq": 12,
+        "score": 1
+    },
+    {
+        "letter": "f",
+        "freq": 1,
+        "score": 1
+    },
+    {
+        "letter": "g",
+        "freq": 2,
+        "score": 1
+    },
+    {
+        "letter": "h",
+        "freq": 2,
+        "score": 1
+    },
+    {
+        "letter": "i",
+        "freq": 6,
+        "score": 1
+    },
+    {
+        "letter": "j",
+        "freq": 1,
+        "score": 1
+    },
+    {
+        "letter": "k",
+        "freq": 1,
+        "score": 1
+    },
+    {
+        "letter": "l",
+        "freq": 4,
+        "score": 1
+    },
+    {
+        "letter": "ll",
+        "freq": 1,
+        "score": 1
+    },
+    {
+        "letter": "m",
+        "freq": 2,
+        "score": 1
+    },
+    {
+        "letter": "n",
+        "freq": 5,
+        "score": 1
+    },
+    {
+        "letter": "ñ",
+        "freq": 1,
+        "score": 1
+    },
+    {
+        "letter": "o",
+        "freq": 9,
+        "score": 1
+    },
+    {
+        "letter": "p",
+        "freq": 2,
+        "score": 1
+    },
+    {
+        "letter": "q",
+        "freq": 1,
+        "score": 1
+    },
+    {
+        "letter": "r",
+        "freq": 5,
+        "score": 1
+    },
+    {
+        "letter": "rr",
+        "freq": 1,
+        "score": 1
+    },
+    {
+        "letter": "s",
+        "freq": 6,
+        "score": 1
+    },
+    {
+        "letter": "t",
+        "freq": 4,
+        "score": 1
+    },
+    {
+        "letter": "u",
+        "freq": 5,
+        "score": 1
+    },
+    {
+        "letter": "v",
+        "freq": 1,
+        "score": 1
+    },
+    {
+        "letter": "w",
+        "freq": 1,
+        "score": 1
+    },
+    {
+        "letter": "x",
+        "freq": 1,
+        "score": 1
+    },
+    {
+        "letter": "y",
+        "freq": 1,
+        "score": 1
+    },
+    {
+        "letter": "z",
+        "freq": 1,
+        "score": 1
+    },
+    {
+        "letter": "*",
+        "freq": 2,
+        "score": 1
+    }
+]
