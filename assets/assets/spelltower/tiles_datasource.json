@@ -7,22 +7,22 @@
     {
         "letter": "b",
         "freq": 2,
-        "score": 1
+        "score": 3
     },
     {
         "letter": "c",
         "freq": 4,
-        "score": 1
+        "score": 3
     },
     {
         "letter": "ch",
         "freq": 1,
-        "score": 1
+        "score": 5
     },
     {
         "letter": "d",
         "freq": 5,
-        "score": 1
+        "score": 2
     },
     {
         "letter": "e",
@@ -32,17 +32,17 @@
     {
         "letter": "f",
         "freq": 1,
-        "score": 1
+        "score": 4
     },
     {
         "letter": "g",
         "freq": 2,
-        "score": 1
+        "score": 4
     },
     {
         "letter": "h",
         "freq": 2,
-        "score": 1
+        "score": 4
     },
     {
         "letter": "i",
@@ -52,12 +52,12 @@
     {
         "letter": "j",
         "freq": 1,
-        "score": 1
+        "score": 8
     },
     {
         "letter": "k",
         "freq": 1,
-        "score": 1
+        "score": 8
     },
     {
         "letter": "l",
@@ -67,12 +67,12 @@
     {
         "letter": "ll",
         "freq": 1,
-        "score": 1
+        "score": 8
     },
     {
         "letter": "m",
         "freq": 2,
-        "score": 1
+        "score": 3
     },
     {
         "letter": "n",
@@ -82,7 +82,7 @@
     {
         "letter": "ñ",
         "freq": 1,
-        "score": 1
+        "score": 8
     },
     {
         "letter": "o",
@@ -92,12 +92,12 @@
     {
         "letter": "p",
         "freq": 2,
-        "score": 1
+        "score": 3
     },
     {
         "letter": "q",
         "freq": 1,
-        "score": 1
+        "score": 5
     },
     {
         "letter": "r",
@@ -107,7 +107,7 @@
     {
         "letter": "rr",
         "freq": 1,
-        "score": 1
+        "score": 8
     },
     {
         "letter": "s",
@@ -127,31 +127,31 @@
     {
         "letter": "v",
         "freq": 1,
-        "score": 1
+        "score": 4
     },
     {
         "letter": "w",
         "freq": 1,
-        "score": 1
+        "score": 8
     },
     {
         "letter": "x",
         "freq": 1,
-        "score": 1
+        "score": 8
     },
     {
         "letter": "y",
         "freq": 1,
-        "score": 1
+        "score": 4
     },
     {
         "letter": "z",
         "freq": 1,
-        "score": 1
+        "score": 10
     },
     {
         "letter": "*",
         "freq": 2,
-        "score": 1
+        "score": 0
     }
 ]
