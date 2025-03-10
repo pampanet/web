@@ -2,7 +2,7 @@
 
 Welcome to pampanet.org, this is my corner of the internet where I intend to show my skills with my own Software Development portfolio, and eventually my own products.
 
-This is a new experience, so you are welcome to [contact us](/#/contact) about how we are doing it any time.
+This is a new experience, so you are welcome to [contact us](#/contact) about how we are doing it any time.
 
 ## Our Mission
 
@@ -15,7 +15,7 @@ So this company's focus and mission is to **make software that can help us evolv
 
 ### Chatbot PoC: 
 
-link: [chat-bot](/#/chat-bot)
+link: [chat-bot](#/chat-bot)
 
 During 2024, I developed a PoC of a chat bubble with streamed content that can be used for chatbots and other texts that need to be displayed slower so the user can read it at a normal pace.
 
@@ -36,17 +36,17 @@ In the feature list, there is:
 - Text only comunication
 - 40 Hz typewriter effect
 
-If you would like to have a quick demo about this and future releases, please [contact us](/#/contact)
+If you would like to have a quick demo about this and future releases, please [contact us](#/contact)
 
 ### TorreLetras:
 
-link: [TorreLetras](/#/torre-letras)
+link: [TorreLetras](#/torre-letras)
 
 This is a game of word searching in spanish. I personally love the english version of this game and couldn't find any spanish one, so I went ahead and made this Flutter web version of the game to try complex animations and game dev techniques.
 
 If you would like to test your spanish skills, please try this game and let me know your thoughts. I personally play it every day to test my spanish vocabulary.
 
-If you would like to have a quick demo about this and future releases, please [contact us](/#/contact)
+If you would like to have a quick demo about this and future releases, please [contact us](#/contact)
 
 ### Mulita: File Archiver
 
@@ -55,7 +55,7 @@ Since the app is multi-platform, the backend has to be as robust and efficient a
 
 The company will release free and premium versions for iOS and Android, but also target desktop platforms such as Windows, MacOS and Linux.
 
-If you would like to have a quick demo about this and future releases, please [contact us](/#/contact)
+If you would like to have a quick demo about this and future releases, please [contact us](#/contact)
 
 ### BLE Serial Console
 
