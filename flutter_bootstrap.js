@@ -34,7 +34,7 @@ addEventListener("message", eventListener);
 if (!window._flutter) {
   window._flutter = {};
 }
-_flutter.buildConfig = {"engineRevision":"a8bfdfc394deaed5c57bd45a64ac4294dc976a72","builds":[{"compileTarget":"dart2js","renderer":"canvaskit","mainJsPath":"main.dart.js"},{}]};
+_flutter.buildConfig = {"engineRevision":"ddf47dd3ff96dbde6d9c614db0d7f019d7c7a2b7","builds":[{"compileTarget":"dart2js","renderer":"canvaskit","mainJsPath":"main.dart.js"},{}]};
 
 
 const currentPath = import.meta.url.replace('flutter_bootstrap.js', '');
@@ -55,6 +55,6 @@ _flutter.loader.load({
   },
   serviceWorkerSettings: {
     serviceWorkerUrl: currentPath+"flutter_service_worker.js",
-    serviceWorkerVersion: "2984890786",
+    serviceWorkerVersion: "1698878403",
   }
 });
