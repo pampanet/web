@@ -55,6 +55,6 @@ _flutter.loader.load({
   },
   serviceWorkerSettings: {
     serviceWorkerUrl: currentPath+"flutter_service_worker.js",
-    serviceWorkerVersion: "4246646600",
+    serviceWorkerVersion: "3397412570",
   }
 });
